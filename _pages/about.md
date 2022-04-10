@@ -9,7 +9,7 @@ feature_row-1:
     - image_path: /assets/images/seattlesnowpocalypse2019portrait.jpg
       title: "Hello!"
       alt: "Portrait in snow"
-      excerpt: "You can call me _April_, though I also respond to _pam_ or _pamyl_. 我的名字是羅方淳.<br><br>I am a PhD candidate in [Alice Berger's Lab](https://research.fredhutch.org/berger/en.html) at the [Fred Hutchinson Cancer Center](https://www.fredhutch.org/en.html) and [University of Washington Genome Sciences](https://www.gs.washington.edu/). For my doctoral research, I study how cancer hijacks our cells' systems for its own benefit, or in more technical terms, my research is in understanding oncogene-driven transcriptional regulation in lung cancer.<br> <br>
+      excerpt: "You can call me _April_, though I also respond to _pam_ or _pamyl_. 我的名字是羅方淳.<br><br>I am a PhD candidate in [Alice Berger's Lab](https://research.fredhutch.org/berger/en.html) at the [Fred Hutchinson Cancer Center](https://www.fredhutch.org/en.html) and [University of Washington Genome Sciences](https://www.gs.washington.edu/). For my doctoral research, I study how cancer hijacks our cells' systems for its own benefit, or in more technical terms, my research is in understanding oncogene-driven transcriptional regulation in lung cancer. My CV can be found [here](/FongShunAprilLo-CV.pdf)<br> <br>
       Adjacent to my research interests, I am also passionate about science communication and education, especially for underrepresented groups in the sciences. Content related to that coming here soon.
       "
 
