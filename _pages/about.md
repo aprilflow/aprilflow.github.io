@@ -45,4 +45,4 @@ feature_row-3:
 
 I acknowledge that I am living and operating on the unceded ancestral land of the Duwamish people past and present. To the land and the Duwamish tribe, I honor and thank you.
 
-Join me in paying rent at [Real Rent Duwamish](https://www.realrentduwamish.org/)
+Join me in paying rent and reparations at [Real Rent Duwamish](https://www.realrentduwamish.org/)
